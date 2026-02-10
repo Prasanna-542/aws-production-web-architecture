@@ -7,4 +7,3 @@ This project demonstrates a highly availablebuilt using VPC,EC2,ALB and AutoScal
 -EC2
 -ALB
 -Auto scaling
--IAM
